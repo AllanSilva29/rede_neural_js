@@ -24,7 +24,7 @@ A rede neural é treinada com quatro exemplos de entrada e saída para a operaç
 
 O projeto é composto por um arquivo principal:
 
-- `neuralNetwork.js`: Arquivo JavaScript que contém a implementação da rede neural.
+- `neural_network.js`: Arquivo JavaScript que contém a implementação da rede neural.
 
 ## Contribuição
 
