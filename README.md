@@ -7,13 +7,13 @@ Este é um projeto de uma rede neural artificial simples implementada em JavaScr
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/rede-neural-artificial.git
+git clone https://github.com/AllanSilva29/rede_neural_js.git
 ```
 
 2. Navegue até o diretório do projeto:
 
 ```bash
-cd rede-neural-artificial
+cd rede_neural_js
 ```
 
 ## Como usar
@@ -40,4 +40,4 @@ Contribuições são sempre bem-vindas. Para contribuir, siga estes passos:
 
 Allan Silva - [Linkedin](https://www.linkedin.com/in/allan-silva-16b94a19b/) - allanjulio836@gmail.com
 
-Projeto Link: [https://github.com/seu-usuario/rede-neural-artificial](https://github.com/seu-usuario/rede-neural-artificial)
+Projeto Link: [https://github.com/AllanSilva29/rede-neural-artificial](https://github.com/AllanSilva29/rede_neural_js.git)
